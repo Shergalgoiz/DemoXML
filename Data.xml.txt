@@ -1,0 +1,20 @@
+<current>
+<city id="1581130" name="Hanoi">
+<coord lon="105.85" lat="21.03"/>
+<country>VN</country>
+<sun rise="2018-12-21T23:29:37" set="2018-12-22T10:20:59"/>
+</city>
+<temperature value="297.15" min="297.15" max="297.15" unit="kelvin"/>
+<humidity value="78" unit="%"/>
+<pressure value="1015" unit="hPa"/>
+<wind>
+<speed value="3.6" name="Gentle Breeze"/>
+<gusts/>
+<direction value="110" code="ESE" name="East-southeast"/>
+</wind>
+<clouds value="75" name="broken clouds"/>
+<visibility value="9000"/>
+<precipitation mode="no"/>
+<weather number="803" value="broken clouds" icon="04n"/>
+<lastupdate value="2018-12-22T13:30:00"/>
+</current>
