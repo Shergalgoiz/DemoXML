@@ -56,7 +56,7 @@ public class Weather extends AppCompatActivity implements View.OnClickListener {
     }
 
     private void callOpenWeatherMap(){
-        String URL = "http://api.openweathermap.org/data/2.5/weather?q="+ txtCityName.getText() +"&appid=df655911f6c0e9bdcf614ad78e2e1cc4&mode=xml";
+        String URL = "https://raw.githubusercontent.com/Shergalgoiz/DemoXML/master/Data.xml";
         RequestQueue mRequestQueue;
 
         Cache cache = new DiskBasedCache(getCacheDir(), 1024 * 1024); // 1MB cap
